@@ -1,44 +1,51 @@
-# 👋 أهلاً بك! أنا محمد مكرم براهيم
+# 👋 Hello! I'm Mohamed Makram Ibrahim
 
-مرحبًا بكم في بروفايلي على GitHub! 🌟
- 
-## من أنا؟
-- 💻 مبرمج ومطور ويب
-- 🎨 مصمم جرافيك
-- 📚 أتعلم تقنيات جديدة يوميًا
+Welcome to my GitHub profile! 🌟
 
-## 🔧 المهارات:
-- **لغات البرمجة:** JavaScript 
-- **الإطارات:** React, Bootstrap
-- **الأدوات:** VS Code
-- **التصميم:** تصميم الجرافيك باستخدام Illustrator و Photoshop
+## Who am I?
+- 💻 Web Developer & Programmer  
+- 🎨 Graphic Designer  
+- 📚 Passionate about learning new technologies every day  
 
+## 🔧 Skills:
+- **Programming Languages:** JavaScript  
+- **Frameworks:** React, Bootstrap  
+- **Tools:** VS Code  
+- **Design:** Graphic design using Illustrator & Photoshop  
 
+## 🛠️ My Projects:
+- [Project 1: Movies & Series Website](https://moomakram.github.io/test1/#/login)  
+  A dynamic website that displays movies and series with features like:
+  - Login & Logout functionality  
+  - Light & Dark mode toggle  
+  - Scroll-to-top button  
+  - Smooth page transitions  
+  - Built with React and Bootstrap for enhanced user experience (UX)  
 
-## 🛠️ مشاريعي:
-- [المشروع الأول: موقع أفلام ومسلسلات] https://moomakram.github.io/test1/#/login
-  موقع ديناميكي يعرض أفلام ومسلسلات يحتوي على ميزات تسجيل الدخول والخروج، الوضع الليلي (Light & Dark Mode)، زر للتنقل السريع إلى أعلى الصفحة، تأثيرات انتقالية بين الصفحات، ومبني باستخدام Bootstrap وReact بالإضافة إلى مكتبات أخرى لتحسين تجربة المستخدم (UX).  
-  **بيانات تسجيل الدخول لتجربة المشروع:**
+  **Demo Login Credentials:**
+  - Username: `mohamedmakram`  
+  - Password: `1234`
 
-  - البريد الإلكتروني: `mohamedmakram`
-  - كلمة المرور: `1234`
+- [Project 2: CRUD Application](https://moomakram.github.io/cruds/)  
+  A dynamic data management app supporting Create, Read, Update, and Delete operations.  
+  🔔 **Note:**  
+  - "Create" is only available after filling in all required fields.  
+  - The `Count` field does not accept values over 100.
 
-- [المشروع الثاني: تطبيق CRUD](https://moomakram.github.io/cruds/)  
-  تطبيق ديناميكي لإدارة البيانات باستخدام العمليات الأساسية (إنشاء، قراءة، تحديث، وحذف).
-🔔 ملاحظة: عملية إنشاء (Create) لا يمكن تنفيذها إلا بعد ملء البيانات المطلوبة، كما أن Count يحتوي على شرط لا يقبل القيم التي تتجاوز 100.
+- [My Certificates](https://moomakram.github.io/my-courses/)  
+  A dedicated page showcasing my certificates, including:  
+  🎨 Graphic Design  
+  ⚛️ React  
+  🌐 Front-End Development  
+  - Also includes logo and branding designs using **Illustrator** & **Photoshop**  
 
-- [شهاداتي](https://moomakram.github.io/my-courses/)  
-  صفحة تعرض الشهادات التي حصلت عليها، منها تصميم الجرافيك، React، وFront-End Development.
-🎨 **Graphic Design** 🖌️  
-- تصميم الشعارات والهويات البصرية باستخدام **Illustrator** و **Photoshop**.
+🖼️ **Design Projects:**  
+- Check out some of my graphic design work in [this repository](https://github.com/moomakram/Graphic-).
 
-🖼️ **مشروعات التصميم**:  
-- يمكنك الاطلاع على بعض التصاميم في [هذا المستودع](https://github.com/moomakram/Graphic-). 
+## 🌱 Currently Learning:
+- TypeScript  
+- Improving my UI/UX skills with Figma
 
-## 🌱 أتعلم حاليًا:
-- تعلم TypeScript
-- تحسين مهارات التصميم باستخدام Figma
-
-## 📫 تواصل معي:
-- WhatsApp: 01015235541
-- [Twitter](https://x.com/mohamedmakram73?t=wJiDsnVkLxGhFKc3us7t8g&s=08)
+## 📫 Contact Me:
+- 📱 WhatsApp: 01015235541  
+- 🐦 [Twitter](https://x.com/mohamedmakram73?t=wJiDsnVkLxGhFKc3us7t8g&s=08)
